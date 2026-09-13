@@ -19,6 +19,12 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+## Moving work into Linear
+
+If your team is also setting up Linear, use the [data import guide](IMPORTING_DATA.md)
+to choose between an exploratory pilot and a full migration, prepare your source
+data, and validate the imported workspace.
+
 ### How to start this exercise
 
 1. Right-click **Copy Exercise** and open the link in a new tab.
