@@ -1,5 +1,9 @@
 # Introduction to GitHub
 
+## 商品価格比較 MVP
+
+商品価格比較 MVP における比較対象、商品同一性、表示項目、および実質価格の計算ルールは、[MVP 要件・実質価格仕様](docs/mvp-requirements.md)に定義しています。
+
 _Get started using GitHub in less than an hour._
 
 ## Welcome
